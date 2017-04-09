@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\menu\\menu_searchview.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\menu\\menu_searchview.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\menu\\example_list.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\menu\\example_list.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\menu\\delete.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\menu\\delete.xml"
+    }
+]

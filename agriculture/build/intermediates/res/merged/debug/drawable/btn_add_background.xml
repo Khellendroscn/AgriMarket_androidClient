@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/edit_product_num_add_normal" android:state_pressed="false"/>
+    <item android:drawable="@drawable/edit_product_num_add_down" android:state_pressed="true"/>
+    <item android:drawable="@drawable/edit_product_num_add_down" android:state_focused="true"/>
+    <item android:drawable="@drawable/edit_product_num_add_normal"/>
+
+</selector>

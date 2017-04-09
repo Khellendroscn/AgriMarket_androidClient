@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\projects\Android\Agriculture\agriculture\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4aa545c8777fbc6b483975bb821b660702e175b">
+        <dex dex="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fdc3394bb3cfd74d2c8711966a3a633a62890acc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\Android\Agriculture\agriculture\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dcc04b6e615fab32764008d49f1cd628f44ce2b">
+        <dex dex="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_382e5add30c5162b52dccac2e34d750a70a0e105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hyc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fe1661516f13f62ec7f628fede074a024eb65f67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\Android\Agriculture\agriculture\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\10\com.actionbarsherlock-actionbarsherlock-4.4.0_292f5317e68e0958263e9b8319727a986227ebcc\classes.dex" />
+    </item>
+
+</items>

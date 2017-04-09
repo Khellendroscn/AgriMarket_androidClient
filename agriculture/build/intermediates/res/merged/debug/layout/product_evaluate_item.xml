@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp" >
+
+    <RatingBar
+        android:id="@+id/product_evaluate_bar"
+        style="?android:attr/ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:max="5"
+        android:numStars="5"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:progress="5"
+        android:scaleType="fitXY"
+        android:stepSize="1" />
+
+    <TextView
+        android:id="@+id/product_evaluate_name_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="1dp"
+        android:paddingRight="3dp"
+        android:paddingTop="0dp"
+        android:text="201122222222"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/product_evaluate_dec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/product_evaluate_name_time"
+        android:layout_marginTop="5dp"
+        android:text="心得"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/product_evaluate_bug_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/product_evaluate_dec"
+        android:layout_marginTop="5dp"
+        android:text="购买日期"
+        android:textSize="16sp" />
+
+</RelativeLayout>

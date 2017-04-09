@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_des_no_enable.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_des_no_enable.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_des_normal.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_des_normal.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\product_easy_shopping_selected.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\product_easy_shopping_selected.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_personal_not_login_bg.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\my_personal_not_login_bg.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_fankui.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\person_fankui.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_dark_movepoint.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\com_dark_movepoint.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopping_card.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\shopping_card.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_line.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\login_line.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\product_easy_shopping_normal.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\product_easy_shopping_normal.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_sign_image.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\login_sign_image.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personel_user_head_bg.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\personel_user_head_bg.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next2.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\next2.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_dizhi.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\person_dizhi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_des_down.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_des_down.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_normal.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agr_feature.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\agr_feature.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart_product_count.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\cart_product_count.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agr_shoppingcart.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\agr_shoppingcart.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_add_no_enable.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_add_no_enable.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\persom_dingdan.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\persom_dingdan.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_our.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\person_our.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agr_news.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\agr_news.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shopping_cart_go_bug.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\shopping_cart_go_bug.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_add_normal.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_add_normal.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart_product_select_off.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\cart_product_select_off.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_me_write.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\about_me_write.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_sign.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\login_sign.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_product_num_add_down.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\edit_product_num_add_down.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_white_movepoint.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\com_white_movepoint.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agr_sell.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\agr_sell.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\return_to_main.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\return_to_main.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_mima.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\person_mima.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\product_order_product_normal.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\product_order_product_normal.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agr_me.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\agr_me.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart_product_select_on.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\cart_product_select_on.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\person_pingjia.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\person_pingjia.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

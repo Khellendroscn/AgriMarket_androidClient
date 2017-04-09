@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/personel_user_head_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="留下您宝贵的意见："
+        android:textColor="#FFECEC"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/fankui_yijian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="left|top"
+        android:inputType="textMultiLine"
+        android:minLines="6"
+        android:hint="意见"
+        android:textSize="20sp" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="您的联系方式："
+        android:textColor="#FFECEC"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/fankui_lianxifangshi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:ems="10"
+         android:hint="联系方式"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="您的邮箱："
+        android:textColor="#FFECEC"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/fankui_youxiang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:ems="10"
+        android:hint="邮箱"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/fankui_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/product_easy_shopping_normal"
+        android:text="提交"
+        android:textColor="#FFECEC"
+        android:textSize="20sp" />
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\projects\Android\Agriculture\library\src\main\assets"/><source path="D:\projects\Android\Agriculture\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\projects\Android\Agriculture\library\src\debug\assets"/></dataSet></merger>

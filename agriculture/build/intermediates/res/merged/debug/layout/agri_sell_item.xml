@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/agri_sell_image"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:padding="10dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/agri_sell_fclassification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/agri_sell_image"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@id/agri_sell_image"
+        android:textColor="#272727"
+        android:textSize="23sp" />
+
+    <TextView
+        android:id="@+id/agri_sell_fclassificationdes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/agri_sell_image"
+        android:layout_marginBottom="18dp"
+        android:layout_toRightOf="@id/agri_sell_image"
+        android:textColor="#9D9D9D"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/agri_sell_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingTop="33dp"
+        android:src="@drawable/next"
+        android:scaleType="fitXY" />
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    
+    <!-- 2012 6.20 立项的标准设置 -->
+
+    <!-- 默认黑色 -->
+    <color name="com_black_color">#333333</color>
+    <!-- 白色字体 :用于标题栏，选中状态，数字标注，深色背景使用 -->
+    <color name="com_white_color">#FFFFFF</color>
+    <!-- 绿色字体：基本信息标题和正文绿色标注 -->
+    <color name="com_green_color">#258437</color>
+    <!-- 浅灰色字体 ：补充字体和配饰字体 -->
+    <color name="com_lightgray_color">#666666</color>
+    <!-- 灰色字体：正文内容，基本信息，二级标题 -->
+    <color name="com_gray_color">#444444</color>
+    <!-- 深灰色字体 ：主标题和重要突出字体的颜色 -->
+    <color name="com_darkgray_color">#333333</color>
+    <!-- 红色 -->
+    <color name="com_red_color">#FF0000</color>
+
+    <!-- 公共分割线颜色 -->
+    <color name="com_divline_color">#cccccc</color>
+    <!-- 统一背景色 ffffff -->
+    <color name="com_bg_color">#eeeeee</color>
+    <!-- 默认背景色 -->
+    <!-- 所有的子View不要设置背景色，除非有特定要求；只在最顶级的父View里设置默认背景色 -->
+    <color name="default_bg_color">#eeeeee</color>
+    <!-- 透明色 -->
+    <color name="com_transparent_color">#80000000</color>
+    <!-- 透明色 -->
+    <color name="com_transparentbg_color">#00000000</color>
+    <!-- 透明色 -->
+    <color name="com_lighttransparent_color">#e0000000</color>
+
+    <!-- 表单配色 -->
+    <color name="form_specialcolor">#258437</color>
+    <color name="form_commoncolor">#999999</color>
+    <color name="form_divline_color">#b1b1b1</color>
+    <color name="form_bg_color">#FFFFFF</color>
+
+    <!-- Exp 知识库 导航页警告文字颜色 -->
+    <color name="exp_nav_warmcolor">#127625</color>
+
+    <!-- 折线图 -->
+    <color name="drawline_color">#444444</color>
+    <color name="drawline_zone_color">#cccccc</color>
+    <color name="main_font_color">#10611e</color>
+    
+    
+</resources>

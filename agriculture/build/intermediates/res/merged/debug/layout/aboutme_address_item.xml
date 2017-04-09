@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    android:background="#02F78E" >
+
+    <TextView
+        android:id="@+id/about_me_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:text="名字:李亚军"
+        android:textColor="#7B7B7B"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/about_me_item_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/about_me_item_name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_toRightOf="@id/about_me_item_name"
+        android:text="电话：13175033021"
+        android:textColor="#7B7B7B"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/about_me_item_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/about_me_item_name"
+        android:layout_below="@id/about_me_item_name"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#7B7B7B"
+        android:text="地址"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:src="@drawable/about_me_write"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp" 
+        android:layout_marginRight="5dp"
+        />
+
+</RelativeLayout>

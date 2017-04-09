@@ -1,0 +1,7 @@
+#Sun Apr 09 12:04:46 CST 2017
+base.0=D\:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fdc3394bb3cfd74d2c8711966a3a633a62890acc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_382e5add30c5162b52dccac2e34d750a70a0e105\\classes.dex
+base.1=D\:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_382e5add30c5162b52dccac2e34d750a70a0e105
+file.0=D\:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fdc3394bb3cfd74d2c8711966a3a633a62890acc\\classes.dex

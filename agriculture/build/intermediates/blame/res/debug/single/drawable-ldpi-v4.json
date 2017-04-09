@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_github.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-ldpi\\ic_action_github.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\indicator.png",
+        "source": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\drawable-ldpi\\indicator.png"
+    }
+]

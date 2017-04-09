@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF" >
+
+        <TextView
+            android:id="@+id/news_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="5月3日"
+            android:textColor="#7B7B7B"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:id="@+id/news_item_image"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_alignLeft="@id/news_item_time"
+            android:layout_below="@id/news_item_time"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/news_item_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/news_item_image"
+            android:layout_alignLeft="@id/news_item_time"
+            android:layout_marginRight="10dp"
+            android:background="#7B7B7B"
+            android:ellipsize="end"
+            android:lines="1"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,4004 @@
+[
+    {
+        "outputFile": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 54,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 55,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 59,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 60,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 45,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 46,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 44,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 45,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 55,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 56,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 52,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 53,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 56,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 56,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 76,
+                    "endOffset": 740
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 76,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 62,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 62,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 73,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 73,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endColumn": 78,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endColumn": 78,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 60,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 60,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 61,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 61,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 62,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1482,
+                        "endColumn": 62,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 77,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 77,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 78,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 78,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 92,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 92,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 92,
+                    "endOffset": 1485
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 92,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1490,
+                    "endColumn": 36,
+                    "endOffset": 1522
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 36,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1527,
+                    "endColumn": 35,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 35,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 46,
+                    "endOffset": 1605
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 46,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1610,
+                    "endColumn": 49,
+                    "endOffset": 1655
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 49,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1660,
+                    "endColumn": 52,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 52,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 51,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 51,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endColumn": 48,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 48,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 49,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 49,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endColumn": 53,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 53,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 62,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1276,
+                        "endColumn": 62,
+                        "endOffset": 1334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endColumn": 47,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 47,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 57,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 59,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1199,
+                        "endColumn": 59,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 49,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 49,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 50,
+                    "endOffset": 2243
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 50,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2248,
+                    "endColumn": 48,
+                    "endOffset": 2292
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1664,
+                        "endColumn": 48,
+                        "endOffset": 1708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2297,
+                    "endColumn": 53,
+                    "endOffset": 2346
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1713,
+                        "endColumn": 53,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2351,
+                    "endColumn": 51,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1594,
+                        "endColumn": 51,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 47,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 47,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 50,
+                    "endOffset": 2497
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 50,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2502,
+                    "endColumn": 52,
+                    "endOffset": 2550
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 52,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2555,
+                    "endColumn": 51,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1358,
+                        "endColumn": 51,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 36,
+                    "endOffset": 2639
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 36,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2644,
+                    "endColumn": 49,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 49,
+                        "endOffset": 1812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endColumn": 34,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 34,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endColumn": 36,
+                    "endOffset": 2761
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 36,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 11611,
+                    "endColumn": 62,
+                    "endOffset": 11669
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 472,
+                        "startColumn": 4,
+                        "startOffset": 23169,
+                        "endColumn": 62,
+                        "endOffset": 23227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 11674,
+                    "endColumn": 68,
+                    "endOffset": 11738
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 473,
+                        "startColumn": 4,
+                        "startOffset": 23232,
+                        "endColumn": 68,
+                        "endOffset": 23296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 11743,
+                    "endColumn": 69,
+                    "endOffset": 11808
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 474,
+                        "startColumn": 4,
+                        "startOffset": 23301,
+                        "endColumn": 69,
+                        "endOffset": 23366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 11813,
+                    "endColumn": 65,
+                    "endOffset": 11874
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 475,
+                        "startColumn": 4,
+                        "startOffset": 23371,
+                        "endColumn": 65,
+                        "endOffset": 23432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 11879,
+                    "endColumn": 66,
+                    "endOffset": 11941
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 476,
+                        "startColumn": 4,
+                        "startOffset": 23437,
+                        "endColumn": 66,
+                        "endOffset": 23499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 11946,
+                    "endColumn": 62,
+                    "endOffset": 12004
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 477,
+                        "startColumn": 4,
+                        "startOffset": 23504,
+                        "endColumn": 62,
+                        "endOffset": 23562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 12009,
+                    "endColumn": 60,
+                    "endOffset": 12065
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 478,
+                        "startColumn": 4,
+                        "startOffset": 23567,
+                        "endColumn": 60,
+                        "endOffset": 23623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 12070,
+                    "endColumn": 59,
+                    "endOffset": 12125
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 480,
+                        "startColumn": 4,
+                        "startOffset": 23745,
+                        "endColumn": 59,
+                        "endOffset": 23800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 12130,
+                    "endColumn": 60,
+                    "endOffset": 12186
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 482,
+                        "startColumn": 4,
+                        "startOffset": 23922,
+                        "endColumn": 60,
+                        "endOffset": 23978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 12191,
+                    "endColumn": 66,
+                    "endOffset": 12253
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 483,
+                        "startColumn": 4,
+                        "startOffset": 23983,
+                        "endColumn": 66,
+                        "endOffset": 24045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 12258,
+                    "endColumn": 67,
+                    "endOffset": 12321
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 484,
+                        "startColumn": 4,
+                        "startOffset": 24050,
+                        "endColumn": 67,
+                        "endOffset": 24113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 12326,
+                    "endColumn": 65,
+                    "endOffset": 12387
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 485,
+                        "startColumn": 4,
+                        "startOffset": 24118,
+                        "endColumn": 65,
+                        "endOffset": 24179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 12392,
+                    "endColumn": 64,
+                    "endOffset": 12452
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 486,
+                        "startColumn": 4,
+                        "startOffset": 24184,
+                        "endColumn": 64,
+                        "endOffset": 24244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 12457,
+                    "endColumn": 57,
+                    "endOffset": 12510
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 12515,
+                    "endColumn": 55,
+                    "endOffset": 12566
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 12571,
+                    "endColumn": 43,
+                    "endOffset": 12610
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 43,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 12615,
+                    "endColumn": 43,
+                    "endOffset": 12654
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 43,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 12659,
+                    "endColumn": 50,
+                    "endOffset": 12705
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 50,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 12710,
+                    "endColumn": 53,
+                    "endOffset": 12759
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 488,
+                        "startColumn": 4,
+                        "startOffset": 24363,
+                        "endColumn": 53,
+                        "endOffset": 24412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 12764,
+                    "endColumn": 55,
+                    "endOffset": 12815
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 489,
+                        "startColumn": 4,
+                        "startOffset": 24417,
+                        "endColumn": 55,
+                        "endOffset": 24468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 12820,
+                    "endColumn": 38,
+                    "endOffset": 12854
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "startOffset": 24473,
+                        "endColumn": 38,
+                        "endOffset": 24507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 12859,
+                    "endColumn": 51,
+                    "endOffset": 12906
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 491,
+                        "startColumn": 4,
+                        "startOffset": 24512,
+                        "endColumn": 51,
+                        "endOffset": 24559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 12911,
+                    "endColumn": 53,
+                    "endOffset": 12960
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 492,
+                        "startColumn": 4,
+                        "startOffset": 24564,
+                        "endColumn": 53,
+                        "endOffset": 24613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 12965,
+                    "endColumn": 36,
+                    "endOffset": 12997
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 493,
+                        "startColumn": 4,
+                        "startOffset": 24618,
+                        "endColumn": 36,
+                        "endOffset": 24650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 13002,
+                    "endColumn": 42,
+                    "endOffset": 13040
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\Agriculture\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 42,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 13045,
+                    "endColumn": 55,
+                    "endOffset": 13096
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 495,
+                        "startColumn": 4,
+                        "startOffset": 24772,
+                        "endColumn": 55,
+                        "endOffset": 24823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 13101,
+                    "endColumn": 40,
+                    "endOffset": 13137
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 40,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 13142,
+                    "endColumn": 39,
+                    "endOffset": 13177
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 39,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 13182,
+                    "endColumn": 74,
+                    "endOffset": 13252
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 497,
+                        "startColumn": 4,
+                        "startOffset": 24946,
+                        "endColumn": 74,
+                        "endOffset": 25016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 13257,
+                    "endColumn": 70,
+                    "endOffset": 13323
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 498,
+                        "startColumn": 4,
+                        "startOffset": 25021,
+                        "endColumn": 70,
+                        "endOffset": 25087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 13328,
+                    "endColumn": 78,
+                    "endOffset": 13402
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 499,
+                        "startColumn": 4,
+                        "startOffset": 25092,
+                        "endColumn": 78,
+                        "endOffset": 25166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 13407,
+                    "endColumn": 54,
+                    "endOffset": 13457
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 500,
+                        "startColumn": 4,
+                        "startOffset": 25171,
+                        "endColumn": 54,
+                        "endOffset": 25221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 13462,
+                    "endColumn": 73,
+                    "endOffset": 13531
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 501,
+                        "startColumn": 4,
+                        "startOffset": 25226,
+                        "endColumn": 73,
+                        "endOffset": 25295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 13536,
+                    "endColumn": 93,
+                    "endOffset": 13625
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 502,
+                        "startColumn": 4,
+                        "startOffset": 25300,
+                        "endColumn": 93,
+                        "endOffset": 25389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 13630,
+                    "endColumn": 73,
+                    "endOffset": 13699
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 503,
+                        "startColumn": 4,
+                        "startOffset": 25394,
+                        "endColumn": 73,
+                        "endOffset": 25463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 13704,
+                    "endColumn": 74,
+                    "endOffset": 13774
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 504,
+                        "startColumn": 4,
+                        "startOffset": 25468,
+                        "endColumn": 74,
+                        "endOffset": 25538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 13779,
+                    "endColumn": 69,
+                    "endOffset": 13844
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 505,
+                        "startColumn": 4,
+                        "startOffset": 25543,
+                        "endColumn": 69,
+                        "endOffset": 25608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 13849,
+                    "endColumn": 75,
+                    "endOffset": 13920
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 506,
+                        "startColumn": 4,
+                        "startOffset": 25613,
+                        "endColumn": 75,
+                        "endOffset": 25684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 13925,
+                    "endColumn": 74,
+                    "endOffset": 13995
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 507,
+                        "startColumn": 4,
+                        "startOffset": 25689,
+                        "endColumn": 74,
+                        "endOffset": 25759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 14000,
+                    "endColumn": 74,
+                    "endOffset": 14070
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 508,
+                        "startColumn": 4,
+                        "startOffset": 25764,
+                        "endColumn": 74,
+                        "endOffset": 25834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 14075,
+                    "endColumn": 146,
+                    "endOffset": 14217
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 509,
+                        "startColumn": 4,
+                        "startOffset": 25839,
+                        "endColumn": 146,
+                        "endOffset": 25981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 14222,
+                    "endColumn": 52,
+                    "endOffset": 14270
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 14275,
+                    "endColumn": 42,
+                    "endOffset": 14313
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 42,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 14318,
+                    "endColumn": 44,
+                    "endOffset": 14358
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 44,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 14363,
+                    "endColumn": 47,
+                    "endOffset": 14406
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 47,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 14411,
+                    "endColumn": 42,
+                    "endOffset": 14449
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 42,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 14454,
+                    "endColumn": 56,
+                    "endOffset": 14506
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 56,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 14511,
+                    "endColumn": 42,
+                    "endOffset": 14549
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 14554,
+                    "endColumn": 41,
+                    "endOffset": 14591
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 41,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 14596,
+                    "endColumn": 65,
+                    "endOffset": 14657
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 65,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 14662,
+                    "endColumn": 43,
+                    "endOffset": 14701
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1630,
+                        "endColumn": 43,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 14706,
+                    "endColumn": 43,
+                    "endOffset": 14745
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 43,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 14750,
+                    "endColumn": 41,
+                    "endOffset": 14787
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 41,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 14792,
+                    "endColumn": 62,
+                    "endOffset": 14850
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 62,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 14855,
+                    "endColumn": 52,
+                    "endOffset": 14903
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 52,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 14908,
+                    "endColumn": 37,
+                    "endOffset": 14941
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 37,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 14946,
+                    "endColumn": 57,
+                    "endOffset": 14999
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 57,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 15004,
+                    "endColumn": 45,
+                    "endOffset": 15045
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 45,
+                        "endOffset": 1625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 15050,
+                    "endColumn": 61,
+                    "endOffset": 15107
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 61,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 15112,
+                    "endColumn": 280,
+                    "endOffset": 15388
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 280,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 15393,
+                    "endColumn": 55,
+                    "endOffset": 15444
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 55,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 15449,
+                    "endColumn": 39,
+                    "endOffset": 15484
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 39,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 15489,
+                    "endColumn": 55,
+                    "endOffset": 15540
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 55,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 15545,
+                    "endColumn": 66,
+                    "endOffset": 15607
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 66,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 15612,
+                    "endColumn": 61,
+                    "endOffset": 15669
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 61,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 15674,
+                    "endColumn": 47,
+                    "endOffset": 15717
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 47,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 15722,
+                    "endColumn": 54,
+                    "endOffset": 15772
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 54,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 15777,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 16063
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 16068,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 16223
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 16228,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 16432
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 511,
+                        "startColumn": 4,
+                        "startOffset": 26103,
+                        "endLine": 514,
+                        "endColumn": 12,
+                        "endOffset": 26307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 16437,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 16578
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 516,
+                        "startColumn": 4,
+                        "startOffset": 26429,
+                        "endLine": 518,
+                        "endColumn": 12,
+                        "endOffset": 26570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 16583,
+                    "endColumn": 80,
+                    "endOffset": 16659
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 520,
+                        "startColumn": 4,
+                        "startOffset": 26576,
+                        "endColumn": 87,
+                        "endOffset": 26659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 16664,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 16817
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 522,
+                        "startColumn": 4,
+                        "startOffset": 26665,
+                        "endLine": 524,
+                        "endColumn": 12,
+                        "endOffset": 26818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 16822,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 17300
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 526,
+                        "startColumn": 4,
+                        "startOffset": 26940,
+                        "endLine": 534,
+                        "endColumn": 12,
+                        "endOffset": 27418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 17305,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 17574
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 536,
+                        "startColumn": 4,
+                        "startOffset": 27424,
+                        "endLine": 540,
+                        "endColumn": 12,
+                        "endOffset": 27693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 17579,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 18041
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 542,
+                        "startColumn": 4,
+                        "startOffset": 27699,
+                        "endLine": 549,
+                        "endColumn": 12,
+                        "endOffset": 28161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 18046,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 18392
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 551,
+                        "startColumn": 4,
+                        "startOffset": 28167,
+                        "endLine": 556,
+                        "endColumn": 12,
+                        "endOffset": 28513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 18397,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 18659
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 558,
+                        "startColumn": 4,
+                        "startOffset": 28519,
+                        "endLine": 561,
+                        "endColumn": 12,
+                        "endOffset": 28781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 18664,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 19293
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 563,
+                        "startColumn": 4,
+                        "startOffset": 28787,
+                        "endLine": 572,
+                        "endColumn": 12,
+                        "endOffset": 29416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 19298,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 19982
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 574,
+                        "startColumn": 4,
+                        "startOffset": 29422,
+                        "endLine": 584,
+                        "endColumn": 12,
+                        "endOffset": 30106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 19987,
+                    "endColumn": 82,
+                    "endOffset": 20065
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 586,
+                        "startColumn": 4,
+                        "startOffset": 30112,
+                        "endColumn": 83,
+                        "endOffset": 30191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 20070,
+                    "endColumn": 108,
+                    "endOffset": 20174
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 588,
+                        "startColumn": 4,
+                        "startOffset": 30197,
+                        "endColumn": 109,
+                        "endOffset": 30302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 20179,
+                    "endLine": 239,
+                    "endColumn": 12,
+                    "endOffset": 20387
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 590,
+                        "startColumn": 4,
+                        "startOffset": 30308,
+                        "endLine": 593,
+                        "endColumn": 12,
+                        "endOffset": 30516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 20392,
+                    "endLine": 242,
+                    "endColumn": 12,
+                    "endOffset": 20518
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 595,
+                        "startColumn": 4,
+                        "startOffset": 30522,
+                        "endLine": 597,
+                        "endColumn": 12,
+                        "endOffset": 30648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 20523,
+                    "endColumn": 94,
+                    "endOffset": 20613
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 599,
+                        "startColumn": 4,
+                        "startOffset": 30654,
+                        "endColumn": 101,
+                        "endOffset": 30751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 20618,
+                    "endColumn": 128,
+                    "endOffset": 20742
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 601,
+                        "startColumn": 4,
+                        "startOffset": 30757,
+                        "endColumn": 135,
+                        "endOffset": 30888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 20747,
+                    "endColumn": 128,
+                    "endOffset": 20871
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 603,
+                        "startColumn": 4,
+                        "startOffset": 30894,
+                        "endColumn": 135,
+                        "endOffset": 31025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 20876,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 21148
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 605,
+                        "startColumn": 4,
+                        "startOffset": 31031,
+                        "endLine": 609,
+                        "endColumn": 12,
+                        "endOffset": 31303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 21153,
+                    "endLine": 254,
+                    "endColumn": 12,
+                    "endOffset": 21355
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 611,
+                        "startColumn": 4,
+                        "startOffset": 31309,
+                        "endLine": 614,
+                        "endColumn": 12,
+                        "endOffset": 31511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 21360,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 21480
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 616,
+                        "startColumn": 4,
+                        "startOffset": 31517,
+                        "endLine": 618,
+                        "endColumn": 12,
+                        "endOffset": 31637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 21485,
+                    "endColumn": 90,
+                    "endOffset": 21571
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 620,
+                        "startColumn": 4,
+                        "startOffset": 31643,
+                        "endColumn": 97,
+                        "endOffset": 31736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 21576,
+                    "endLine": 264,
+                    "endColumn": 12,
+                    "endOffset": 21926
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 622,
+                        "startColumn": 4,
+                        "startOffset": 31742,
+                        "endLine": 627,
+                        "endColumn": 12,
+                        "endOffset": 32092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 21931,
+                    "endLine": 268,
+                    "endColumn": 12,
+                    "endOffset": 22190
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 629,
+                        "startColumn": 4,
+                        "startOffset": 32098,
+                        "endLine": 632,
+                        "endColumn": 12,
+                        "endOffset": 32357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 22195,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 22467
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 634,
+                        "startColumn": 4,
+                        "startOffset": 32363,
+                        "endLine": 637,
+                        "endColumn": 12,
+                        "endOffset": 32635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 22472,
+                    "endLine": 276,
+                    "endColumn": 12,
+                    "endOffset": 22723
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 639,
+                        "startColumn": 4,
+                        "startOffset": 32641,
+                        "endLine": 642,
+                        "endColumn": 12,
+                        "endOffset": 32892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 22728,
+                    "endLine": 280,
+                    "endColumn": 12,
+                    "endOffset": 22994
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 644,
+                        "startColumn": 4,
+                        "startOffset": 32898,
+                        "endLine": 647,
+                        "endColumn": 12,
+                        "endOffset": 33164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 22999,
+                    "endLine": 284,
+                    "endColumn": 12,
+                    "endOffset": 23259
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 649,
+                        "startColumn": 4,
+                        "startOffset": 33170,
+                        "endLine": 652,
+                        "endColumn": 12,
+                        "endOffset": 33430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 23264,
+                    "endLine": 288,
+                    "endColumn": 12,
+                    "endOffset": 23537
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 654,
+                        "startColumn": 4,
+                        "startOffset": 33436,
+                        "endLine": 657,
+                        "endColumn": 12,
+                        "endOffset": 33709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 23542,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 23794
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 659,
+                        "startColumn": 4,
+                        "startOffset": 33715,
+                        "endLine": 662,
+                        "endColumn": 12,
+                        "endOffset": 33967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 23799,
+                    "endLine": 296,
+                    "endColumn": 12,
+                    "endOffset": 24066
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 664,
+                        "startColumn": 4,
+                        "startOffset": 33973,
+                        "endLine": 667,
+                        "endColumn": 12,
+                        "endOffset": 34240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 24071,
+                    "endLine": 300,
+                    "endColumn": 12,
+                    "endOffset": 24272
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 669,
+                        "startColumn": 4,
+                        "startOffset": 34246,
+                        "endLine": 672,
+                        "endColumn": 12,
+                        "endOffset": 34447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 24277,
+                    "endLine": 305,
+                    "endColumn": 12,
+                    "endOffset": 24542
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 674,
+                        "startColumn": 4,
+                        "startOffset": 34453,
+                        "endLine": 678,
+                        "endColumn": 12,
+                        "endOffset": 34718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 24547,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 24700
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 680,
+                        "startColumn": 4,
+                        "startOffset": 34724,
+                        "endLine": 682,
+                        "endColumn": 12,
+                        "endOffset": 34877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 24705,
+                    "endLine": 311,
+                    "endColumn": 12,
+                    "endOffset": 24829
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 684,
+                        "startColumn": 4,
+                        "startOffset": 34883,
+                        "endLine": 686,
+                        "endColumn": 12,
+                        "endOffset": 35007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 24834,
+                    "endLine": 314,
+                    "endColumn": 12,
+                    "endOffset": 24958
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 688,
+                        "startColumn": 4,
+                        "startOffset": 35013,
+                        "endLine": 690,
+                        "endColumn": 12,
+                        "endOffset": 35137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 24963,
+                    "endLine": 319,
+                    "endColumn": 12,
+                    "endOffset": 25225
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 692,
+                        "startColumn": 4,
+                        "startOffset": 35143,
+                        "endLine": 696,
+                        "endColumn": 12,
+                        "endOffset": 35405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 25230,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 30380
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 698,
+                        "startColumn": 4,
+                        "startOffset": 35527,
+                        "endLine": 764,
+                        "endColumn": 12,
+                        "endOffset": 40677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 30385,
+                    "endLine": 453,
+                    "endColumn": 12,
+                    "endOffset": 35761
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 766,
+                        "startColumn": 4,
+                        "startOffset": 40683,
+                        "endLine": 832,
+                        "endColumn": 12,
+                        "endOffset": 46059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 35766,
+                    "endLine": 487,
+                    "endColumn": 12,
+                    "endOffset": 38655
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 834,
+                        "startColumn": 4,
+                        "startOffset": 46065,
+                        "endLine": 867,
+                        "endColumn": 12,
+                        "endOffset": 48954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 38660,
+                    "endLine": 491,
+                    "endColumn": 12,
+                    "endOffset": 38817
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 869,
+                        "startColumn": 4,
+                        "startOffset": 48960,
+                        "endLine": 872,
+                        "endColumn": 12,
+                        "endOffset": 49117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 38822,
+                    "endLine": 495,
+                    "endColumn": 12,
+                    "endOffset": 38973
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 874,
+                        "startColumn": 4,
+                        "startOffset": 49123,
+                        "endLine": 877,
+                        "endColumn": 12,
+                        "endOffset": 49274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 38978,
+                    "endColumn": 26,
+                    "endOffset": 39000
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 879,
+                        "startColumn": 4,
+                        "startOffset": 49396,
+                        "endColumn": 33,
+                        "endOffset": 49425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 39005,
+                    "endLine": 508,
+                    "endColumn": 12,
+                    "endOffset": 39896
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 881,
+                        "startColumn": 4,
+                        "startOffset": 49431,
+                        "endLine": 892,
+                        "endColumn": 12,
+                        "endOffset": 50322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 39901,
+                    "endLine": 520,
+                    "endColumn": 12,
+                    "endOffset": 40780
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 894,
+                        "startColumn": 4,
+                        "startOffset": 50328,
+                        "endLine": 905,
+                        "endColumn": 12,
+                        "endOffset": 51207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 40785,
+                    "endLine": 525,
+                    "endColumn": 12,
+                    "endOffset": 41041
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 907,
+                        "startColumn": 4,
+                        "startOffset": 51213,
+                        "endLine": 911,
+                        "endColumn": 12,
+                        "endOffset": 51469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 41046,
+                    "endLine": 534,
+                    "endColumn": 12,
+                    "endOffset": 41504
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 913,
+                        "startColumn": 4,
+                        "startOffset": 51475,
+                        "endLine": 921,
+                        "endColumn": 12,
+                        "endOffset": 51933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 41509,
+                    "endLine": 540,
+                    "endColumn": 12,
+                    "endOffset": 41841
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 923,
+                        "startColumn": 4,
+                        "startOffset": 51939,
+                        "endLine": 928,
+                        "endColumn": 12,
+                        "endOffset": 52271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 41846,
+                    "endLine": 549,
+                    "endColumn": 12,
+                    "endOffset": 42355
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 930,
+                        "startColumn": 4,
+                        "startOffset": 52277,
+                        "endLine": 938,
+                        "endColumn": 12,
+                        "endOffset": 52786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 42360,
+                    "endLine": 552,
+                    "endColumn": 12,
+                    "endOffset": 42511
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 940,
+                        "startColumn": 4,
+                        "startOffset": 52792,
+                        "endLine": 942,
+                        "endColumn": 12,
+                        "endOffset": 52943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 42516,
+                    "endLine": 557,
+                    "endColumn": 12,
+                    "endOffset": 42845
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 944,
+                        "startColumn": 4,
+                        "startOffset": 52949,
+                        "endLine": 948,
+                        "endColumn": 12,
+                        "endOffset": 53278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 42850,
+                    "endLine": 561,
+                    "endColumn": 12,
+                    "endOffset": 43144
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 950,
+                        "startColumn": 4,
+                        "startOffset": 53284,
+                        "endLine": 953,
+                        "endColumn": 12,
+                        "endOffset": 53578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 43149,
+                    "endColumn": 102,
+                    "endOffset": 43247
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 955,
+                        "startColumn": 4,
+                        "startOffset": 53584,
+                        "endColumn": 109,
+                        "endOffset": 53689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 43252,
+                    "endLine": 568,
+                    "endColumn": 12,
+                    "endOffset": 43585
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 957,
+                        "startColumn": 4,
+                        "startOffset": 53695,
+                        "endLine": 962,
+                        "endColumn": 12,
+                        "endOffset": 54028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 43590,
+                    "endColumn": 101,
+                    "endOffset": 43687
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 964,
+                        "startColumn": 4,
+                        "startOffset": 54034,
+                        "endColumn": 108,
+                        "endOffset": 54138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 43692,
+                    "endLine": 579,
+                    "endColumn": 12,
+                    "endOffset": 44529
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 966,
+                        "startColumn": 4,
+                        "startOffset": 54144,
+                        "endLine": 975,
+                        "endColumn": 12,
+                        "endOffset": 54981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 44534,
+                    "endLine": 591,
+                    "endColumn": 12,
+                    "endOffset": 45397
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 977,
+                        "startColumn": 4,
+                        "startOffset": 54987,
+                        "endLine": 988,
+                        "endColumn": 12,
+                        "endOffset": 55850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 45402,
+                    "endLine": 603,
+                    "endColumn": 12,
+                    "endOffset": 46293
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 990,
+                        "startColumn": 4,
+                        "startOffset": 55856,
+                        "endLine": 1001,
+                        "endColumn": 12,
+                        "endOffset": 56747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 46298,
+                    "endColumn": 100,
+                    "endOffset": 46394
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1003,
+                        "startColumn": 4,
+                        "startOffset": 56753,
+                        "endColumn": 107,
+                        "endOffset": 56856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 46399,
+                    "endColumn": 66,
+                    "endOffset": 46461
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1005,
+                        "startColumn": 4,
+                        "startOffset": 56862,
+                        "endColumn": 73,
+                        "endOffset": 56931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 46466,
+                    "endColumn": 102,
+                    "endOffset": 46564
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1007,
+                        "startColumn": 4,
+                        "startOffset": 56937,
+                        "endColumn": 109,
+                        "endOffset": 57042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 46569,
+                    "endLine": 609,
+                    "endColumn": 12,
+                    "endOffset": 46720
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1009,
+                        "startColumn": 4,
+                        "startOffset": 57048,
+                        "endLine": 1011,
+                        "endColumn": 12,
+                        "endOffset": 57199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 46725,
+                    "endColumn": 102,
+                    "endOffset": 46823
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1013,
+                        "startColumn": 4,
+                        "startOffset": 57205,
+                        "endColumn": 109,
+                        "endOffset": 57310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 611,
+                    "startColumn": 4,
+                    "startOffset": 46828,
+                    "endColumn": 67,
+                    "endOffset": 46891
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1015,
+                        "startColumn": 4,
+                        "startOffset": 57316,
+                        "endColumn": 74,
+                        "endOffset": 57386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 46896,
+                    "endColumn": 92,
+                    "endOffset": 46984
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1017,
+                        "startColumn": 4,
+                        "startOffset": 57392,
+                        "endColumn": 99,
+                        "endOffset": 57487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 46989,
+                    "endLine": 615,
+                    "endColumn": 12,
+                    "endOffset": 47147
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1019,
+                        "startColumn": 4,
+                        "startOffset": 57493,
+                        "endLine": 1021,
+                        "endColumn": 12,
+                        "endOffset": 57651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 616,
+                    "startColumn": 4,
+                    "startOffset": 47152,
+                    "endLine": 618,
+                    "endColumn": 12,
+                    "endOffset": 47310
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1023,
+                        "startColumn": 4,
+                        "startOffset": 57657,
+                        "endLine": 1025,
+                        "endColumn": 12,
+                        "endOffset": 57815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 47315,
+                    "endLine": 622,
+                    "endColumn": 12,
+                    "endOffset": 47613
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1027,
+                        "startColumn": 4,
+                        "startOffset": 57821,
+                        "endLine": 1030,
+                        "endColumn": 12,
+                        "endOffset": 58119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 47618,
+                    "endLine": 626,
+                    "endColumn": 12,
+                    "endOffset": 47942
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1032,
+                        "startColumn": 4,
+                        "startOffset": 58125,
+                        "endLine": 1035,
+                        "endColumn": 12,
+                        "endOffset": 58449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 47947,
+                    "endLine": 629,
+                    "endColumn": 12,
+                    "endOffset": 48148
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1037,
+                        "startColumn": 4,
+                        "startOffset": 58455,
+                        "endLine": 1039,
+                        "endColumn": 12,
+                        "endOffset": 58656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 48153,
+                    "endLine": 635,
+                    "endColumn": 12,
+                    "endOffset": 48493
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1041,
+                        "startColumn": 4,
+                        "startOffset": 58662,
+                        "endLine": 1046,
+                        "endColumn": 12,
+                        "endOffset": 59002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 48498,
+                    "endColumn": 107,
+                    "endOffset": 48601
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1048,
+                        "startColumn": 4,
+                        "startOffset": 59008,
+                        "endColumn": 114,
+                        "endOffset": 59118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 48606,
+                    "endLine": 643,
+                    "endColumn": 12,
+                    "endOffset": 49071
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1050,
+                        "startColumn": 4,
+                        "startOffset": 59124,
+                        "endLine": 1056,
+                        "endColumn": 12,
+                        "endOffset": 59589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 49076,
+                    "endLine": 647,
+                    "endColumn": 12,
+                    "endOffset": 49356
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1058,
+                        "startColumn": 4,
+                        "startOffset": 59595,
+                        "endLine": 1061,
+                        "endColumn": 12,
+                        "endOffset": 59875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 49361,
+                    "endColumn": 98,
+                    "endOffset": 49455
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1063,
+                        "startColumn": 4,
+                        "startOffset": 59881,
+                        "endColumn": 105,
+                        "endOffset": 59982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 649,
+                    "startColumn": 4,
+                    "startOffset": 49460,
+                    "endLine": 651,
+                    "endColumn": 12,
+                    "endOffset": 49621
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1065,
+                        "startColumn": 4,
+                        "startOffset": 59988,
+                        "endLine": 1067,
+                        "endColumn": 12,
+                        "endOffset": 60149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 49626,
+                    "endColumn": 90,
+                    "endOffset": 49712
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1069,
+                        "startColumn": 4,
+                        "startOffset": 60155,
+                        "endColumn": 97,
+                        "endOffset": 60248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 653,
+                    "startColumn": 4,
+                    "startOffset": 49717,
+                    "endLine": 655,
+                    "endColumn": 12,
+                    "endOffset": 49936
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1071,
+                        "startColumn": 4,
+                        "startOffset": 60254,
+                        "endLine": 1073,
+                        "endColumn": 12,
+                        "endOffset": 60473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 49941,
+                    "endLine": 659,
+                    "endColumn": 12,
+                    "endOffset": 50262
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1075,
+                        "startColumn": 4,
+                        "startOffset": 60479,
+                        "endLine": 1078,
+                        "endColumn": 12,
+                        "endOffset": 60800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 50267,
+                    "endLine": 664,
+                    "endColumn": 12,
+                    "endOffset": 50658
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1080,
+                        "startColumn": 4,
+                        "startOffset": 60806,
+                        "endLine": 1084,
+                        "endColumn": 12,
+                        "endOffset": 61197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 665,
+                    "startColumn": 4,
+                    "startOffset": 50663,
+                    "endLine": 671,
+                    "endColumn": 12,
+                    "endOffset": 51120
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1086,
+                        "startColumn": 4,
+                        "startOffset": 61203,
+                        "endLine": 1092,
+                        "endColumn": 12,
+                        "endOffset": 61660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 672,
+                    "startColumn": 4,
+                    "startOffset": 51125,
+                    "endColumn": 94,
+                    "endOffset": 51215
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1094,
+                        "startColumn": 4,
+                        "startOffset": 61666,
+                        "endColumn": 101,
+                        "endOffset": 61763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 673,
+                    "startColumn": 4,
+                    "startOffset": 51220,
+                    "endColumn": 86,
+                    "endOffset": 51302
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1096,
+                        "startColumn": 4,
+                        "startOffset": 61769,
+                        "endColumn": 93,
+                        "endOffset": 61858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 674,
+                    "startColumn": 4,
+                    "startOffset": 51307,
+                    "endColumn": 74,
+                    "endOffset": 51377
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1098,
+                        "startColumn": 4,
+                        "startOffset": 61864,
+                        "endColumn": 81,
+                        "endOffset": 61941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 675,
+                    "startColumn": 4,
+                    "startOffset": 51382,
+                    "endLine": 678,
+                    "endColumn": 12,
+                    "endOffset": 51626
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1100,
+                        "startColumn": 4,
+                        "startOffset": 61947,
+                        "endLine": 1103,
+                        "endColumn": 12,
+                        "endOffset": 62191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 51631,
+                    "endLine": 684,
+                    "endColumn": 12,
+                    "endOffset": 52065
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1105,
+                        "startColumn": 4,
+                        "startOffset": 62197,
+                        "endLine": 1110,
+                        "endColumn": 12,
+                        "endOffset": 62631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 52070,
+                    "endLine": 688,
+                    "endColumn": 12,
+                    "endOffset": 52383
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1112,
+                        "startColumn": 4,
+                        "startOffset": 62637,
+                        "endLine": 1115,
+                        "endColumn": 12,
+                        "endOffset": 62950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 52388,
+                    "endLine": 691,
+                    "endColumn": 12,
+                    "endOffset": 52581
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1117,
+                        "startColumn": 4,
+                        "startOffset": 62956,
+                        "endLine": 1119,
+                        "endColumn": 12,
+                        "endOffset": 63149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 52586,
+                    "endLine": 696,
+                    "endColumn": 12,
+                    "endOffset": 52881
+                },
+                "from": {
+                    "file": "D:\\projects\\Android\\Agriculture\\agriculture\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 1121,
+                        "startColumn": 4,
+                        "startOffset": 63155,
+                        "endLine": 1125,
+                        "endColumn": 12,
+                        "endOffset": 63450
+                    }
+                }
+            }
+        ]
+    }
+]

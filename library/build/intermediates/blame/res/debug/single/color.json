@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    }
+]

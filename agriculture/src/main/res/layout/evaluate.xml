@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <RatingBar
+        android:id="@+id/evaluate_rb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:max="5"
+        android:numStars="5"
+        android:progress="0"
+        android:stepSize="1" />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/evaluate_et"
+        android:hint="说点你对商品的感觉......"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

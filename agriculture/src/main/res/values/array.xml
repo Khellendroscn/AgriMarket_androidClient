@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item_names">
+        <item>农产品资讯</item>
+        <item>农产品销售</item>
+        <item>特色农产品</item>
+        <item>我的购物车</item>
+        <item>我的信息</item>
+    </string-array>
+
+</resources>

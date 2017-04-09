@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="14988687107651"
+    token="5177845086482276957"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="392" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="14431910985553"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\projects\Android\Agriculture\agriculture\build\outputs\apk\agriculture-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="14988687107651"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\projects\Android\Agriculture\agriculture\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

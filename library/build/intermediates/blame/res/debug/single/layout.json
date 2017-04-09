@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "D:\\projects\\Android\\Agriculture\\library\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_title_item.xml"
+    }
+]

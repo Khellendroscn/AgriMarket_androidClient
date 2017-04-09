@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp" >
+
+    <CheckBox
+        android:id="@+id/shopping_card_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/shopping_card_checkbox"
+        android:button="@null"
+        android:checked="true" />
+
+    <ImageView
+        android:id="@+id/shopping_card_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@id/shopping_card_checkbox"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/shopping_card_product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/shopping_card_image"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toRightOf="@id/shopping_card_image"
+        android:ellipsize="end"
+        android:lines="2"
+        android:textSize="18sp" 
+        android:textColor="#9D9D9D" />
+
+    <TextView
+        android:id="@+id/shopping_card_farm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/shopping_card_product_name"
+        android:layout_below="@id/shopping_card_product_name"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textSize="15sp" 
+        android:textColor="#9D9D9D" />
+
+    <TextView
+        android:id="@+id/shopping_card_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/shopping_card_product_name"
+        android:layout_below="@id/shopping_card_farm"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textColor="#9D9D9D" 
+        />
+
+    <TextView
+        android:id="@+id/shopping_card_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/shopping_card_checkbox"
+        android:layout_below="@id/shopping_card_number"
+        android:layout_marginTop="20dp"
+        android:ellipsize="end"
+        android:lines="1"
+        android:text="数量："
+        android:textSize="20sp" 
+        />
+
+    <ImageButton
+        android:id="@+id/shopping_card_dec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/shopping_card_count"
+        android:layout_toRightOf="@id/shopping_card_count"
+        android:layout_marginLeft="7dp"
+        android:background="@drawable/btn_dec_background" />
+
+    <TextView
+        android:id="@+id/shopping_card_product_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/shopping_card_count"
+        android:layout_marginLeft="7dp"
+        android:layout_toRightOf="@id/shopping_card_dec"
+        android:background="@drawable/cart_product_count"
+        android:gravity="center"
+        android:textSize="25sp" />
+
+    <ImageButton
+        android:id="@+id/shopping_card_inc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/shopping_card_count"
+        android:layout_marginLeft="7dp"
+        android:layout_toRightOf="@id/shopping_card_product_count"
+        android:background="@drawable/btn_add_background" />
+
+    <TextView
+        android:id="@+id/shopping_card_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/shopping_card_count"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:ellipsize="end"
+        android:lines="1"
+        android:textSize="20sp"
+        android:textColor="#FF0000" />
+
+</RelativeLayout>
